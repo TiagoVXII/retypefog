@@ -1,3 +1,0 @@
-- uses: retypeapp/action-build@v2
-  with:
-    license: ${{ RETYPE_FOG }}
